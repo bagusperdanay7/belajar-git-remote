@@ -6,6 +6,15 @@ Link Video Tutorial: [Tutorial Git Remote](https://www.youtube.com/watch?v=rE0PA
 
 Bahasan Materi Meliputi:
 
+- Pengenalan Git Remote
+- Git Server
+- Git Server Repository
+- SSH
+- Remote Repository
+- Push
+- Clone
+- Remote Branch
+
 **Program ini membutuhkan:**
 
 | Tech Stack & Tools | Version |
