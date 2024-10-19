@@ -15,12 +15,14 @@ Bahasan Materi Meliputi:
 - Clone
 - Remote Branch
 
+## Technology stack & Tools
+
 **Program ini membutuhkan:**
 
 | Tech Stack & Tools | Version |
 | ------------------ | ------- |
 | Git                | 2.30+   |
-| Visual Studio Code | -       |
+| Visual Studio Code | Latest  |
 
 ## Catatan Pribadi
 
