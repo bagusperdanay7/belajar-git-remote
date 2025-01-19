@@ -4,7 +4,7 @@ Repository ini merupakan praktik dari materi Git Remote yang dibawakan oleh **Ek
 
 Link Video Tutorial:
 
-[![Static Badge](https://img.shields.io/badge/Tutorial_Git_Remote-white?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](ttps://www.youtube.com/watch?v=rE0PA87S-Mc)
+[![Static Badge](https://img.shields.io/badge/Tutorial_Git_Remote-white?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/watch?v=rE0PA87S-Mc)
 
 Bahasan Materi Meliputi:
 
