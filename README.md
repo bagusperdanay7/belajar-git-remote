@@ -4,7 +4,7 @@ Repository ini merupakan praktik dari materi Git Remote yang dibawakan oleh **Ek
 
 Link Video Tutorial:
 
-[Tutorial Git Remote](https://www.youtube.com/watch?v=rE0PA87S-Mc)
+[![Static Badge](https://img.shields.io/badge/Tutorial_Git_Remote-white?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](ttps://www.youtube.com/watch?v=rE0PA87S-Mc)
 
 Bahasan Materi Meliputi:
 
@@ -30,6 +30,7 @@ Bahasan Materi Meliputi:
 
 Jika ingin klona di komputer lain. Taruh di direktori berikut:
 
+```text
     .
     ├── Course
     │   ├── Programmer Zaman Now
@@ -37,6 +38,7 @@ Jika ingin klona di komputer lain. Taruh di direktori berikut:
     |   |   └── ...
     |   └── ...
     └── ...
+```
 
 Jika sudah di berada di folder **GIT**, baru clone.
 
