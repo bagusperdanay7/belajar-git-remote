@@ -1,8 +1,10 @@
 # Tutorial Git Remote | PZN
 
-Repository ini merupakan praktik dari materi Git Remote yang dibawakan oleh **Eko Kurniawan Khannedy** dari channel YouTube _Programmer Zaman Now_.
+Repository ini merupakan praktik dari materi Git Remote yang dibawakan oleh **Eko Kurniawan Khannedy** dari channel YouTube **_Programmer Zaman Now_**.
 
-Link Video Tutorial: [Tutorial Git Remote](https://www.youtube.com/watch?v=rE0PA87S-Mc)
+Link Video Tutorial:
+
+[Tutorial Git Remote](https://www.youtube.com/watch?v=rE0PA87S-Mc)
 
 Bahasan Materi Meliputi:
 
